@@ -1,0 +1,18 @@
+"/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/DerivedSources/CoreMLGenerated/ModelV26 Iteration 2090/ModelV26 Iteration 2090.swift":
+  swift-dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/ModelV26 Iteration 2090.swiftdeps"
+  object: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/ModelV26 Iteration 2090.o"
+  diagnostics: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/ModelV26 Iteration 2090.dia"
+  const-values: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/ModelV26 Iteration 2090.swiftconstvalues"
+  dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/ModelV26 Iteration 2090.d"
+"/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/WalkthroughViewController.swift":
+  dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/WalkthroughViewController.d"
+  swift-dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/WalkthroughViewController.swiftdeps"
+  object: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/WalkthroughViewController.o"
+  diagnostics: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/WalkthroughViewController.dia"
+  const-values: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/WalkthroughViewController.swiftconstvalues"
+"/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/CalibrationInfo+CoreDataClass.swift":
+  object: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataClass.o"
+  diagnostics: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataClass.dia"
+  dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataClass.d"
+  swift-dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataClass.swiftdeps"
+  const-values: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataClass.swiftconstvalues"

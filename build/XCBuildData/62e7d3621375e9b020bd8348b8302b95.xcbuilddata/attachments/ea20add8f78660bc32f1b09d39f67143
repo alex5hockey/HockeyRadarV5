@@ -1,0 +1,6 @@
+framework module Pods_HockeyRadarV5_HockeyRadarV5UITests {
+  umbrella header "Pods-HockeyRadarV5-HockeyRadarV5UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

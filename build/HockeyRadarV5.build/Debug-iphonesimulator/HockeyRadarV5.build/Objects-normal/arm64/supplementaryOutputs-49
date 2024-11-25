@@ -1,0 +1,18 @@
+"/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/AppDelegate.swift":
+  dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/AppDelegate.d"
+  const-values: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/AppDelegate.swiftconstvalues"
+  swift-dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  diagnostics: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/AppDelegate.dia"
+  object: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/AppDelegate.o"
+"/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/IntroViewController.swift":
+  dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/IntroViewController.d"
+  const-values: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/IntroViewController.swiftconstvalues"
+  object: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/IntroViewController.o"
+  swift-dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/IntroViewController.swiftdeps"
+  diagnostics: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/IntroViewController.dia"
+"/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/SettingsTableViewController.swift":
+  object: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/SettingsTableViewController.o"
+  const-values: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/SettingsTableViewController.swiftconstvalues"
+  swift-dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/SettingsTableViewController.swiftdeps"
+  diagnostics: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/SettingsTableViewController.dia"
+  dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/SettingsTableViewController.d"

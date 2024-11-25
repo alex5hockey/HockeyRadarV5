@@ -1,0 +1,18 @@
+"/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/CalibrationViewController.swift":
+  object: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationViewController.o"
+  dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationViewController.d"
+  swift-dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationViewController.swiftdeps"
+  diagnostics: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationViewController.dia"
+  const-values: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationViewController.swiftconstvalues"
+"/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/Helpers.swift":
+  swift-dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Helpers.swiftdeps"
+  dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Helpers.d"
+  diagnostics: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Helpers.dia"
+  object: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Helpers.o"
+  const-values: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Helpers.swiftconstvalues"
+"/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/ShopViewController.swift":
+  dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/ShopViewController.d"
+  diagnostics: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/ShopViewController.dia"
+  const-values: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/ShopViewController.swiftconstvalues"
+  object: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/ShopViewController.o"
+  swift-dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/ShopViewController.swiftdeps"

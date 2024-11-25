@@ -1,0 +1,89 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "5a40b73f7226d2c1ce3f5c2bb342eb568ccad57ae97fcc7198d95c4b268530dd"
+    },
+    {
+      "guid" : "5a40b73f7226d2c1ce3f5c2bb342eb566bfd1b6eb12fe4c0a9dba0d56b1c8af6"
+    },
+    {
+      "guid" : "5a40b73f7226d2c1ce3f5c2bb342eb56c97cf5564eb2b7957f1120c09c9491ee"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42a9a6ce66dec175cec15823b9fb337645"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4292932ec394b5cbf375820c3e1c53b395"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd422f335951233ecebb47798e6d3d9bb5fb"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd420c0e4f762db9e099bcccf6301d505a18"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42f8aec71da154f7c9b9fbb8d65dccd1f4"
+    }
+  ],
+  "containerPath" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.1",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/aghajanovalex/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/aghajanovalex/Library/Developer/Xcode/DerivedData/HockeyRadarV5-eroyqgjpkguraaawtmwqxjmvqfyc/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/aghajanovalex/Library/Developer/Xcode/DerivedData/HockeyRadarV5-eroyqgjpkguraaawtmwqxjmvqfyc/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone17,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.0",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone17,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/aghajanovalex/Library/Developer/Xcode/DerivedData/HockeyRadarV5-eroyqgjpkguraaawtmwqxjmvqfyc/CodeCoverage/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "18A78AB7-5EA1-434C-A7AA-1D9D6CB86718",
+          "TARGET_DEVICE_MODEL" : "iPhone17,1",
+          "TARGET_DEVICE_OS_VERSION" : "18.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

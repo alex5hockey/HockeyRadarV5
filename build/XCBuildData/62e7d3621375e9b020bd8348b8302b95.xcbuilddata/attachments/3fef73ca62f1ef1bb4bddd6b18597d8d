@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITests-master.dia",
+    "emit-module-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITests-master.swiftdeps"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5UITests/HockeyRadarV5UITests.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITests.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITests.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITests.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITests.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITests.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITests.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITests.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITests~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5UITests/HockeyRadarV5UITestsLaunchTests.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITestsLaunchTests.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITestsLaunchTests.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITestsLaunchTests.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITestsLaunchTests.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5UITests.build/Objects-normal/arm64/HockeyRadarV5UITestsLaunchTests~partial.swiftmodule"
+  }
+}

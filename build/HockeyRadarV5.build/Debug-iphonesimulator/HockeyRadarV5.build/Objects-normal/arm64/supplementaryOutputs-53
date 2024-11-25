@@ -1,0 +1,18 @@
+"/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/CalibrationInfo+CoreDataProperties.swift":
+  swift-dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataProperties.swiftdeps"
+  object: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataProperties.o"
+  const-values: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataProperties.swiftconstvalues"
+  dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataProperties.d"
+  diagnostics: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataProperties.dia"
+"/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/Sessions+CoreDataProperties.swift":
+  const-values: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataProperties.swiftconstvalues"
+  object: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataProperties.o"
+  swift-dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataProperties.swiftdeps"
+  diagnostics: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataProperties.dia"
+  dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataProperties.d"
+"/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/Sessions+CoreDataClass.swift":
+  diagnostics: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataClass.dia"
+  object: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataClass.o"
+  const-values: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataClass.swiftconstvalues"
+  swift-dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataClass.swiftdeps"
+  dependencies: "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataClass.d"

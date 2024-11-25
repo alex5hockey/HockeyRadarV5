@@ -1,0 +1,278 @@
+{
+  "" : {
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/HockeyRadarV5-master.dia",
+    "emit-module-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/HockeyRadarV5-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/HockeyRadarV5-master-emit-module.dia",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/HockeyRadarV5-master.swiftdeps"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/CalibrationInfo+CoreDataClass.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataClass.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataClass.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataClass.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataClass.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataClass.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/CalibrationInfo+CoreDataProperties.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataProperties.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataProperties.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataProperties.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataProperties.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationInfo+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/HockeyRadarV5+CoreDataModel.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/HockeyRadarV5+CoreDataModel.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/HockeyRadarV5+CoreDataModel.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/HockeyRadarV5+CoreDataModel.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/HockeyRadarV5+CoreDataModel.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/HockeyRadarV5+CoreDataModel.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/HockeyRadarV5+CoreDataModel.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/HockeyRadarV5+CoreDataModel.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/HockeyRadarV5+CoreDataModel~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/Sessions+CoreDataClass.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataClass.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataClass.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataClass.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataClass.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataClass.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/Sessions+CoreDataProperties.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataProperties.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataProperties.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataProperties.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataProperties.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Sessions+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/SettingsInfo+CoreDataClass.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataClass.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataClass.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataClass.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataClass.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataClass.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/SettingsInfo+CoreDataProperties.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataProperties.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataProperties.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataProperties.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataProperties.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsInfo+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/Shots+CoreDataClass.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataClass.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataClass.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataClass.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataClass.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataClass.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/Shots+CoreDataProperties.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataProperties.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataProperties.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataProperties.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataProperties.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Shots+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/Targets+CoreDataClass.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataClass.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataClass.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataClass.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataClass.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataClass.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/DerivedSources/CoreDataGenerated/HockeyRadarV5/Targets+CoreDataProperties.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataProperties.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataProperties.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataProperties.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataProperties.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Targets+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/DerivedSources/CoreMLGenerated/ModelV26 Iteration 2090/ModelV26 Iteration 2090.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ModelV26 Iteration 2090.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ModelV26 Iteration 2090.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ModelV26 Iteration 2090.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ModelV26 Iteration 2090.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ModelV26 Iteration 2090.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ModelV26 Iteration 2090.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ModelV26 Iteration 2090.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ModelV26 Iteration 2090~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/AccuracyCalibrateViewController.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AccuracyCalibrateViewController.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AccuracyCalibrateViewController.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AccuracyCalibrateViewController.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AccuracyCalibrateViewController.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AccuracyCalibrateViewController.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AccuracyCalibrateViewController.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AccuracyCalibrateViewController.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AccuracyCalibrateViewController~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/AppDelegate.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/CalibrationViewController.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationViewController.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationViewController.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationViewController.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationViewController.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationViewController.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationViewController.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationViewController.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/CalibrationViewController~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/DetailsViewController.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/DetailsViewController.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/DetailsViewController.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/DetailsViewController.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/DetailsViewController.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/DetailsViewController.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/DetailsViewController.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/DetailsViewController.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/DetailsViewController~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/Helpers.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Helpers.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Helpers.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Helpers.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Helpers.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Helpers.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Helpers.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Helpers.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/Helpers~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/IntroViewController.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/IntroViewController.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/IntroViewController.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/IntroViewController.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/IntroViewController.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/IntroViewController.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/IntroViewController.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/IntroViewController.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/IntroViewController~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/SceneDelegate.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/SessionTableViewCell.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewCell.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewCell.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewCell.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewCell.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewCell.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewCell~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/SessionTableViewController.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewController.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewController.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewController.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewController.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewController.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewController.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewController.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SessionTableViewController~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/SettingsTableViewController.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsTableViewController.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsTableViewController.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsTableViewController.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsTableViewController.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsTableViewController.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsTableViewController.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsTableViewController.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/SettingsTableViewController~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/ShopViewController.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ShopViewController.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ShopViewController.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ShopViewController.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ShopViewController.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ShopViewController.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ShopViewController.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ShopViewController.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ShopViewController~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/ViewController.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5/WalkthroughViewController.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/WalkthroughViewController.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/WalkthroughViewController.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/WalkthroughViewController.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/WalkthroughViewController.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/WalkthroughViewController.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/WalkthroughViewController.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/WalkthroughViewController.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/WalkthroughViewController~partial.swiftmodule"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/ToDo.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ToDo.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ToDo.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ToDo.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ToDo.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ToDo.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ToDo.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ToDo.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphoneos/HockeyRadarV5.build/Objects-normal/arm64/ToDo~partial.swiftmodule"
+  }
+}

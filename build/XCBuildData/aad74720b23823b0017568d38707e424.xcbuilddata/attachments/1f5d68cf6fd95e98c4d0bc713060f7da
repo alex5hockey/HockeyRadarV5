@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5Tests.build/Objects-normal/arm64/HockeyRadarV5Tests-master.dia",
+    "emit-module-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5Tests.build/Objects-normal/arm64/HockeyRadarV5Tests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5Tests.build/Objects-normal/arm64/HockeyRadarV5Tests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5Tests.build/Objects-normal/arm64/HockeyRadarV5Tests-master.swiftdeps"
+  },
+  "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5Tests/HockeyRadarV5Tests.swift" : {
+    "const-values" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5Tests.build/Objects-normal/arm64/HockeyRadarV5Tests.swiftconstvalues",
+    "dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5Tests.build/Objects-normal/arm64/HockeyRadarV5Tests.d",
+    "diagnostics" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5Tests.build/Objects-normal/arm64/HockeyRadarV5Tests.dia",
+    "index-unit-output-path" : "/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5Tests.build/Objects-normal/arm64/HockeyRadarV5Tests.o",
+    "llvm-bc" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5Tests.build/Objects-normal/arm64/HockeyRadarV5Tests.bc",
+    "object" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5Tests.build/Objects-normal/arm64/HockeyRadarV5Tests.o",
+    "swift-dependencies" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5Tests.build/Objects-normal/arm64/HockeyRadarV5Tests.swiftdeps",
+    "swiftmodule" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/build/HockeyRadarV5.build/Debug-iphonesimulator/HockeyRadarV5Tests.build/Objects-normal/arm64/HockeyRadarV5Tests~partial.swiftmodule"
+  }
+}

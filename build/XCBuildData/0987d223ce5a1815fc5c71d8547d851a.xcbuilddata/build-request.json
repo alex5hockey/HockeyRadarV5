@@ -1,0 +1,48 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "5a40b73f7226d2c1ce3f5c2bb342eb568ccad57ae97fcc7198d95c4b268530dd"
+    }
+  ],
+  "containerPath" : "/Users/aghajanovalex/Desktop/HockeyRadarV5/HockeyRadarV5.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/aghajanovalex/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/aghajanovalex/Library/Developer/Xcode/DerivedData/HockeyRadarV5-eroyqgjpkguraaawtmwqxjmvqfyc/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/aghajanovalex/Library/Developer/Xcode/DerivedData/HockeyRadarV5-eroyqgjpkguraaawtmwqxjmvqfyc/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/aghajanovalex/Library/Developer/Xcode/DerivedData/HockeyRadarV5-eroyqgjpkguraaawtmwqxjmvqfyc/CodeCoverage/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

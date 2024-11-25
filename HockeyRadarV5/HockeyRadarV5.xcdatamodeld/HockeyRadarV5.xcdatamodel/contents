@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22757" systemVersion="23E224" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CalibrationInfo" representedClassName="CalibrationInfo" syncable="YES" codeGenerationType="class">
+        <attribute name="personToCamera" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="personToNet" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="Sessions" representedClassName="Sessions" syncable="YES" codeGenerationType="class">
+        <attribute name="averageSpeed" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="numberOfShots" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="targets" optional="YES" attributeType="String"/>
+        <attribute name="unit" optional="YES" attributeType="String"/>
+        <attribute name="uuid" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+    </entity>
+    <entity name="SettingsInfo" representedClassName="SettingsInfo" syncable="YES" codeGenerationType="class">
+        <attribute name="hapticFeedback" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="shotDirection" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="speedUnits" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Shots" representedClassName="Shots" syncable="YES" codeGenerationType="class">
+        <attribute name="accurate" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="sessionUUID" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="shotX" optional="YES" attributeType="Float" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="shotY" optional="YES" attributeType="Float" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="speed" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="target" optional="YES" attributeType="String"/>
+        <attribute name="unit" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Targets" representedClassName="Targets" syncable="YES" codeGenerationType="class">
+        <attribute name="target" optional="YES" attributeType="String"/>
+    </entity>
+</model>

@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_HockeyRadarV5_HockeyRadarV5UITestsVersionString[];
+ extern const double Pods_HockeyRadarV5_HockeyRadarV5UITestsVersionNumber;
+
+ const unsigned char Pods_HockeyRadarV5_HockeyRadarV5UITestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_HockeyRadarV5_HockeyRadarV5UITests  PROJECT:Pods-1" "\n";
+ const double Pods_HockeyRadarV5_HockeyRadarV5UITestsVersionNumber __attribute__ ((used)) = (double)1.;

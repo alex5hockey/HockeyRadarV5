@@ -1,0 +1,10 @@
+Target dependency graph (4 targets)
+Target 'HockeyRadarV5' in project 'HockeyRadarV5'
+➜ Implicit dependency on target 'Pods-HockeyRadarV5' in project 'Pods' via file 'Pods_HockeyRadarV5.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'TensorFlowLiteSwift' in project 'Pods' via options '-framework TensorFlowLite' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-HockeyRadarV5' in project 'Pods'
+➜ Explicit dependency on target 'TensorFlowLiteC' in project 'Pods'
+➜ Explicit dependency on target 'TensorFlowLiteSwift' in project 'Pods'
+Target 'TensorFlowLiteSwift' in project 'Pods'
+➜ Explicit dependency on target 'TensorFlowLiteC' in project 'Pods'
+Target 'TensorFlowLiteC' in project 'Pods' (no dependencies)
